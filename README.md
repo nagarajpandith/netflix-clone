@@ -1,6 +1,6 @@
 # Netflix-Clone
-A Responsive front-end clone of Netflix website built as a part of 7 Day Clone building bootcamp by https://www.shapeai.tech/
-Bootcamp hosted by Pavan Kumar, Full-stack developer & Instructor at ShapeAI.
+A Responsive front-end clone of Netflix website built as a part of 7 Day Clone building bootcamp by https://www.shapeai.tech/ hosted by Pavan Kumar, Full-stack developer & Instructor at ShapeAI.
+![Image of Netflix-Clone](https://github.com/nagarajpandith/netflix-clone/netflix-clone.png)
 
 # Credits for the assets used
 - Netflix logo 
