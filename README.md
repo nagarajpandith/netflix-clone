@@ -1,7 +1,20 @@
 # Netflix-Clone
 A Responsive front-end clone of Netflix website built as a part of 7 Day Clone building bootcamp by https://www.shapeai.tech/ 
 
-![Image of Netflix-Clone](https://github.com/nagarajpandith/netflix-clone/blob/main/images/Netflix-Clone.png)
+<details>
+<summary>Live Demo</summary>
+Visit 
+</details>
+
+<details>
+<summary>Screenshot of Clone</summary>
+<img src="https://github.com/nagarajpandith/netflix-clone/blob/main/images/Netflix-Clone.png" width="750">
+</details>
+
+<details>
+<summary>Certificate of Bootcamp</summary>
+<img src="" width="750">
+</details>
 
 # Assets used
 - Netflix logo- 
