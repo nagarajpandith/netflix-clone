@@ -17,16 +17,16 @@ Visit
 </details>
 
 # Assets used
-- Netflix logo- https://tinyurl.com/4z49xkcu
+- Netflix logo: https://tinyurl.com/4z49xkcu
 
-- Netflix Background- https://tinyurl.com/4z49xkcu
+- Netflix Background: https://tinyurl.com/4z49xkcu
 
-- Earth symbol in drop-down (Select-Language)- https://tinyurl.com/yhyxbxwh
+- Earth symbol in drop-down (Select-Language): https://tinyurl.com/yhyxbxwh
 
-- Main Font link- https://tinyurl.com/2zkjc7uk
+- Main Font link: https://tinyurl.com/2zkjc7uk
 
-- Background colour shade of Netflix- #dc030f
+- Background colour shade of Netflix: #dc030f
 
-- Background- rgba(0, 0, 0, 0.4);
+- Background: rgba(0, 0, 0, 0.4);
  
 
