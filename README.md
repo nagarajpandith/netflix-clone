@@ -17,10 +17,23 @@ Visit: https://nagarajpandith.github.io/netflix-clone/
 </details>
 
 # Assets used
-- Netflix logo: https://tinyurl.com/4z49xkcu
-- Netflix Background: https://tinyurl.com/4z49xkcu
-- Earth symbol in drop-down (Select-Language): https://tinyurl.com/yhyxbxwh
-- Main Font link: https://tinyurl.com/2zkjc7uk
-- Background colour shade of Netflix: #dc030f
-- Background: rgba(0, 0, 0, 0.4);
-- Email Form holder background: rgb(153, 149, 149);
+- NavBar
+  - Netflix logo: https://tinyurl.com/4z49xkcu
+  - Netflix Background: https://tinyurl.com/4z49xkcu
+  - Earth symbol in drop-down (Select-Language): https://tinyurl.com/yhyxbxwh
+  - Main Font link: https://tinyurl.com/2zkjc7uk
+  
+- Body 1 
+  - TV Png: https://tinyurl.com/9banbadj
+  - Video 1: https://tinyurl.com/vp8d2yy6
+  
+- Body 2
+  - Main BG: https://tinyurl.com/y35kvwvy
+  - Stranger Things poster: https://tinyurl.com/bh6ufmcu
+  - Download icon GIF: https://tinyurl.com/344ajx3h
+ 
+- Background colors
+  - Background color shade of Netflix: #dc030f
+  - Background: rgba(0, 0, 0, 0.4);
+  - Email holder BG: rgb(153, 149, 149);
+  - Top border color: solid #222 (size: 8px)
