@@ -3,7 +3,7 @@ A Responsive front-end clone of Netflix website built as a part of 7 Day Clone b
 
 <details>
 <summary>Live Demo</summary>
-Visit 
+Visit: https://nagarajpandith.github.io/netflix-clone/
 </details>
 
 <details>
