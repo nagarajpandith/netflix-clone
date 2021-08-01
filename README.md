@@ -3,7 +3,9 @@ A Responsive front-end clone of Netflix website built as a part of 7 Day Clone b
 
 <details>
 <summary>Live Demo</summary>
-Visit: https://nagarajpandith.github.io/netflix-clone/
+<a href="https://nagarajpandith.github.io/netflix-clone/" target="_blank">
+<img src="https://i0.wp.com/www.printinlondon.co.uk/blog/wp-content/uploads/2017/07/visit-website-button.png?resize=300%2C98&ssl=1" width = 150/>
+</a>
 </details>
 
 <details>
