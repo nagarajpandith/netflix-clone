@@ -25,17 +25,25 @@ A Responsive front-end clone of Netflix website built as a part of 7 Day Clone b
   - Earth symbol in drop-down (Select-Language): https://tinyurl.com/yhyxbxwh
   - Main Font link: https://tinyurl.com/2zkjc7uk
   
-- Body 1 
+- Feature 1 
   - TV Png: https://tinyurl.com/9banbadj
   - Video 1: https://tinyurl.com/vp8d2yy6
   
-- Body 2
+- Feature 2
   - Main BG: https://tinyurl.com/y35kvwvy
   - Stranger Things poster: https://tinyurl.com/bh6ufmcu
   - Download icon GIF: https://tinyurl.com/344ajx3h
- 
+  - border: 2 px solid rgba(255, 255, 255, 0.25);
+  
+- Feature 3
+  - Device pile-in png: https://tinyurl.com/758r9a4s
+  - Video: https://tinyurl.com/4rruzxx5
+  
+- Feature 4
+  - Children png: https://tinyurl.com/w2ewna8s
+  
 - Background colors
   - Background color shade of Netflix: #dc030f
-  - Background: rgba(0, 0, 0, 0.4);
+  - Netflix red shade: rgba(0, 0, 0, 0.4);
   - Email holder BG: rgb(153, 149, 149);
   - Top border color: solid #222 (size: 8px)
