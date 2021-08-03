@@ -521,3 +521,10 @@ footer {
 
 @media (min-width: 1254px) {
 }
+
+@media (min-width: 320px) {
+ .signin__button {
+    width: 100%;
+  }
+}
+  
