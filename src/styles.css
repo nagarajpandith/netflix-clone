@@ -351,7 +351,13 @@ footer {
   .hero__bg__image__container {
     height: 100vh;
   }
-
+  
+   
+  .signin__button {
+   padding: 10px 20px;
+   font-size: 18px;
+    
+    
   .hero__bg__overlay {
     height: 100vh;
   }
