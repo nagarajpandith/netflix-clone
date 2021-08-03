@@ -348,26 +348,6 @@ footer {
 }
 
 @media (min-width: 768px) {
-  
-    .navbar {
-    padding: 2% 5%;
-  }
-
-  .navbar__brand {
-    width: 150px;
-  }
-
-  .signin__button {
-    padding: 10px 20px;
-    font-size: 18px;
-  }
-  .dropdown__container {
-    padding: 10px 5px;
-  }
-
-  .navbar__nav__items {
-    gap: 30px;
-  }
 
   .hero__bg__image__container {
     height: 100vh;
