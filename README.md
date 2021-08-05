@@ -14,8 +14,10 @@ A Responsive front-end clone of Netflix website built as a part of 7 Day Clone b
 </details>
 
 <details>
-<summary>Certificate of Bootcamp</summary>
-<img src="" width="750">
+<summary>Certificates of Bootcamp</summary>
+<img src="https://github.com/nagarajpandith/netflix-clone/blob/gh-pages/images/Z3ulzJ(1).png" width="500">
+<img src="https://github.com/nagarajpandith/netflix-clone/blob/gh-pages/images/ZM5sNY.png" width="500">
+<img src="https://github.com/nagarajpandith/netflix-clone/blob/gh-pages/images/Z1at1IJ.png" width="500">
 </details>
 
 # Assets used
