@@ -522,5 +522,11 @@ footer {
 @media (min-width: 1254px) {
 }
 
+@media (max-width: 481px) {
+  .signin__button {
+    padding: 0.6rem 0.6rem;
+  }
+}
+
 
   
