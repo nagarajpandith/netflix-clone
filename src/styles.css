@@ -21,13 +21,11 @@ body {
 }
 
 .navbar__brand {
-  width: 100px;
-  height: 100%;
+  width: 200px;
 }
 
 .brand__logo {
-  width: 100%;
-  height: 100%;
+  width: 200px;
 }
 
 .language__drop__down {
@@ -526,6 +524,14 @@ footer {
   .signin__button {
     padding: 0.6rem 0.6rem;
   }
+  .navbar__brand {
+  width: 100px;
+  }
+    
+  .brand__logo {
+  width: 100px;
+  }
+
 }
 
 
