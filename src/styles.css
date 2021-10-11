@@ -51,8 +51,14 @@ body {
   color: white;
   padding: 0.25rem 0.5rem;
   border-radius: 4px;
-}
+  text-decoration: none;
+  
 
+}
+.signin__button a{
+  text-decoration: none;
+  color:aliceblue;
+}
 .navbar__nav__items {
   display: flex;
   gap: 10px;
@@ -129,13 +135,18 @@ body {
   justify-content: center;
   align-items: center;
   gap: 15px;
+  border-radius: 20px;
 }
-
+.primary__button
+{
+  border-radius: 20px;
+}
 .form__container {
   background-color: white;
   width: 90%;
   height: 50px;
   position: relative;
+  border-radius: 20px;
 }
 
 .email__input:focus + .email__label {
