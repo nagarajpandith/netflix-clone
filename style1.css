@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 8rem;
+}
+
+body {
+
+    background: #141E30;
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);
+    background: linear-gradient(to right, #243B55, #141E30);
+
+
+}
+
+
+
+.container {
+    width: 600px;
+    height: 450px;
+    border-radius: 15px;
+    box-shadow: 4px 4px 2px rgba(167, 132, 17, 0);
+    display: inline-flex;
+}
+
+#image {
+    width: 20%;
+}
+
+button {
+    border-radius: 5px;
+}
+
+.left {
+    width: 250px;
+    height: 400px;
+    background: black;
+    box-sizing: border-box;
+    border-radius: 15px 0 0 15px;
+    text-align: center;
+}
+
+.left h1 {
+    margin: 45px;
+    color: rgb(202, 10, 10);
+    text-shadow: 0px 2px 5px black;
+}
+
+span {
+    color: rgb(0, 0, 0);
+}
+
+.container .right {
+    width: 350px;
+    height: 400px;
+    background: rgb(255, 255, 255);
+    border-radius: 0 15px 15px 0;
+}
+
+.container .right .form {
+    margin: 30px;
+}
+
+.container .right .form input {
+    margin: 10px;
+    width: 200px;
+    height: 30px;
+    padding: 2px;
+}
+
+.container .right .form .button {
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 10px;
+    height: 30px;
+}
+
+.button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+    color: white;
+}
+
+.button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+.button:hover span {
+    padding-right: 25px;
+}
+
+.button:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+
+.container .right .form p {
+    margin: 20px;
+}
+
+.container .right .form a {
+    color: grey;
+}
+
+.container .right .form a:hover {
+    color: rgb(180, 21, 10) ;
+}
+#username,#password{
+    padding:10px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid;
+}
+
+#image 
+{
+    border-radius: 50%;
+}
